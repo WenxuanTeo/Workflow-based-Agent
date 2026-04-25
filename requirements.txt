@@ -1,1 +1,20 @@
+# 基础
+python>=3.9
 
+# 数据处理
+pandas
+numpy
+
+# LLM（可选，用于rewrite/扩展）
+transformers
+torch
+
+# API（可选，加分项）
+fastapi
+uvicorn
+
+# 工具增强（可选）
+pydantic
+
+# 日志（可选）
+loguru
